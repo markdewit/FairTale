@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 178029e67f9e4e74fb23f8450b19f71b
+guid: d3b629e47ac9a6645a4b75ff975ec760
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8829523779349505009
-    second: projekt animatin_0
+      213: -1853007718803435672
+    second: piranha swamp animation jumping 1_0
   - first:
-      213: -5823473425564164709
-    second: projekt animatin_1
+      213: -2402323560429259041
+    second: piranha swamp animation jumping 1_1
   - first:
-      213: -4269825756125737254
-    second: projekt animatin_2
-=======
-guid: b89f81eb8d527ee4dbe9ac4d56038209
-TextureImporter:
-  internalIDToNameTable: []
->>>>>>> d800f2137d5153e448bc2e9058375a2c4665b66f
+      213: -1050969987224730989
+    second: piranha swamp animation jumping 1_2
+  - first:
+      213: -5423736045446685461
+    second: piranha swamp animation jumping 1_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -55,11 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-<<<<<<< HEAD
   spriteMode: 2
-=======
-  spriteMode: 1
->>>>>>> d800f2137d5153e448bc2e9058375a2c4665b66f
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -89,7 +82,6 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -154,46 +146,25 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: projekt animatin_0
+      name: piranha swamp animation jumping 1_1
       rect:
         serializedVersion: 2
-        x: 45
-        y: 24
-        width: 416
-        height: 579
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0378780e5c878b64e9441eb59f3ed1c8
-      internalID: -8829523779349505009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: projekt animatin_1
-      rect:
-        serializedVersion: 2
-        x: 527
+        x: 22
         y: 12
-        width: 470
-        height: 606
+        width: 464
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab829c9ea908d934695eea0d57f8f6b6
-      internalID: -5823473425564164709
+      spriteID: d29a2945271786644880869627000016
+      internalID: -2402323560429259041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: projekt animatin_2
+      name: piranha swamp animation jumping 1_0
       rect:
         serializedVersion: 2
-        x: 1115
-        y: 47
-        width: 443
-        height: 573
+        x: 532
+        y: 15
+        width: 532
+        height: 608
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,17 +193,54 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f56a6f6c470de5449d3e6c5fc91661f
-      internalID: -4269825756125737254
+      spriteID: 0659b3f601eceed4a8ab4ef60ccf1c37
+      internalID: -1853007718803435672
       vertices: []
       indices: 
       edges: []
       weights: []
-=======
-  spriteSheet:
-    serializedVersion: 2
-    sprites: []
->>>>>>> d800f2137d5153e448bc2e9058375a2c4665b66f
+    - serializedVersion: 2
+      name: piranha swamp animation jumping 1_2
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 15
+        width: 550
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5431dc2046c11147b4cf32f07d5f1c4
+      internalID: -1050969987224730989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piranha swamp animation jumping 1_3
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 12
+        width: 403
+        height: 616
+      alignment: 9
+      pivot: {x: 0.5125136, y: 0.5040933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835b3539fe167f74cb8140bedf38359c
+      internalID: -5423736045446685461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
