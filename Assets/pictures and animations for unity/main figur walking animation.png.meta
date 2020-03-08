@@ -1,7 +1,25 @@
 fileFormatVersion: 2
 guid: 574c0622466d6a144b22ae86f3f33420
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2854123580276540324
+    second: main figur walking animation_1
+  - first:
+      213: -1060371361285588867
+    second: main figur walking animation_2
+  - first:
+      213: 3453879687023600767
+    second: main figur walking animation_3
+  - first:
+      213: 372615552955001370
+    second: main figur walking animation_4
+  - first:
+      213: -2648385541706478466
+    second: main figur walking animation_5
+  - first:
+      213: -7330779108062703963
+    second: main figur walking animation_6
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,7 +102,133 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: main figur walking animation_1
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 86
+        width: 378
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9056ccb8de32a4e9a7629e6fc6d928
+      internalID: 2854123580276540324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur walking animation_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 317
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6287b5cf65e9fb34787e3bdb153e6093
+      internalID: -1060371361285588867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur walking animation_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 43
+        width: 420
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978a8a91125fc64fa2d355d4e4fbe77
+      internalID: 3453879687023600767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur walking animation_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 9
+        width: 320
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5595941a25df49a6aa38046c58693
+      internalID: 372615552955001370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur walking animation_5
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 256
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074339e2a40be3f499f3fb291c393252
+      internalID: -2648385541706478466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur walking animation_6
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 207
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28da652c417c3e49b5d0c9c8d4ee620
+      internalID: -7330779108062703963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
