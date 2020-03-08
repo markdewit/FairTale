@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: c34b2e2b7930147459d115204dfe056b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7009510665158420266
+    second: main figur jumpng animation_0
+  - first:
+      213: -1126884072524511822
+    second: main figur jumpng animation_1
+  - first:
+      213: -3121577182385599262
+    second: main figur jumpng animation_2
+  - first:
+      213: -3580678321510122374
+    second: main figur jumpng animation_3
+  - first:
+      213: 1141289310799999809
+    second: main figur jumpng animation_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +55,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +85,126 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: main figur jumpng animation_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 206
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f99e4f3786a5541bc3148ec6720a07
+      internalID: -1126884072524511822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur jumpng animation_0
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 205
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f99c570d14a949b7d2204f3d030d9
+      internalID: -7009510665158420266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur jumpng animation_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 95
+        width: 243
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcae996f57ecc240b1eb483aa74fce5
+      internalID: -3121577182385599262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur jumpng animation_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 68
+        width: 268
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa231b0eaf14b164fa0f6e7f442f10d4
+      internalID: -3580678321510122374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur jumpng animation_4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 111
+        width: 313
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0a409c8f120f948a7d93e4e7af2e40
+      internalID: 1141289310799999809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
