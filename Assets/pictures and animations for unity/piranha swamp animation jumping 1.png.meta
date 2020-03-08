@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-guid: 2dc2934b614214841bfa6afde648b27f
+guid: d3b629e47ac9a6645a4b75ff975ec760
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2382016663463710211
-    second: main figur running animation_0
+      213: -1853007718803435672
+    second: piranha swamp animation jumping 1_0
   - first:
-      213: -465091699810190363
-    second: main figur running animation_1
+      213: -2402323560429259041
+    second: piranha swamp animation jumping 1_1
   - first:
-      213: 3640124906908347249
-    second: main figur running animation_2
+      213: -1050969987224730989
+    second: piranha swamp animation jumping 1_2
   - first:
-      213: -3922751577774112811
-    second: main figur running animation_3
-  - first:
-      213: 755867081248415544
-    second: main figur running animation_4
+      213: -5423736045446685461
+    second: piranha swamp animation jumping 1_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -161,13 +158,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: main figur running animation_0
+      name: piranha swamp animation jumping 1_1
       rect:
         serializedVersion: 2
-        x: 31
-        y: 36
-        width: 457
-        height: 637
+        x: 22
+        y: 12
+        width: 464
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f652237b4a227f4396396e16b7561f3
-      internalID: 2382016663463710211
+      spriteID: d29a2945271786644880869627000016
+      internalID: -2402323560429259041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: main figur running animation_1
+      name: piranha swamp animation jumping 1_0
       rect:
         serializedVersion: 2
-        x: 467
-        y: 43
-        width: 300
-        height: 637
+        x: 532
+        y: 15
+        width: 532
+        height: 608
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c110744b3a24c434d8669264b78a4554
-      internalID: -465091699810190363
+      spriteID: 0659b3f601eceed4a8ab4ef60ccf1c37
+      internalID: -1853007718803435672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: main figur running animation_2
+      name: piranha swamp animation jumping 1_2
       rect:
         serializedVersion: 2
-        x: 780
-        y: 92
-        width: 295
-        height: 596
+        x: 1154
+        y: 15
+        width: 550
+        height: 603
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,50 +214,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c882e2ffabffe64d997ed81e5557ba1
-      internalID: 3640124906908347249
+      spriteID: a5431dc2046c11147b4cf32f07d5f1c4
+      internalID: -1050969987224730989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: main figur running animation_3
+      name: piranha swamp animation jumping 1_3
       rect:
         serializedVersion: 2
-        x: 1123
-        y: 97
-        width: 388
-        height: 523
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1722
+        y: 12
+        width: 403
+        height: 616
+      alignment: 9
+      pivot: {x: 0.5125136, y: 0.5040933}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 871c794246dab434c9dfff3ec32a8db9
-      internalID: -3922751577774112811
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: main figur running animation_4
-      rect:
-        serializedVersion: 2
-        x: 1441
-        y: 169
-        width: 462
-        height: 519
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5c54c18b8a8e29449ab4fe88d30b53e
-      internalID: 755867081248415544
+      spriteID: 835b3539fe167f74cb8140bedf38359c
+      internalID: -5423736045446685461
       vertices: []
       indices: 
       edges: []
