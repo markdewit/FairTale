@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: dbeb5b90eeb637a4a832c3c91ab8ceb8
+guid: 574c0622466d6a144b22ae86f3f33420
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5034124909775393811
-    second: wind  animation_0
+      213: 2854123580276540324
+    second: main figur walking animation_1
   - first:
-      213: -6099998146175130116
-    second: wind  animation_1
+      213: -1060371361285588867
+    second: main figur walking animation_2
+  - first:
+      213: 3453879687023600767
+    second: main figur walking animation_3
+  - first:
+      213: 372615552955001370
+    second: main figur walking animation_4
+  - first:
+      213: -2648385541706478466
+    second: main figur walking animation_5
+  - first:
+      213: -7330779108062703963
+    second: main figur walking animation_6
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -92,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: wind  animation_0
+      name: main figur walking animation_1
       rect:
         serializedVersion: 2
-        x: 2
-        y: 15
-        width: 1139
-        height: 853
+        x: 1091
+        y: 86
+        width: 378
+        height: 869
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -106,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ebbe38d5b34fa147a94a2c351f52290
-      internalID: 5034124909775393811
+      spriteID: 7d9056ccb8de32a4e9a7629e6fc6d928
+      internalID: 2854123580276540324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: wind  animation_1
+      name: main figur walking animation_2
       rect:
         serializedVersion: 2
-        x: 1164
-        y: 15
-        width: 1007
-        height: 842
+        x: 4
+        y: 76
+        width: 317
+        height: 860
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +139,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2440cd1197a280d4bb8d5709c88f748e
-      internalID: -6099998146175130116
+      spriteID: 6287b5cf65e9fb34787e3bdb153e6093
+      internalID: -1060371361285588867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur walking animation_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 43
+        width: 420
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978a8a91125fc64fa2d355d4e4fbe77
+      internalID: 3453879687023600767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur walking animation_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 9
+        width: 320
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a5595941a25df49a6aa38046c58693
+      internalID: 372615552955001370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur walking animation_5
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 256
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074339e2a40be3f499f3fb291c393252
+      internalID: -2648385541706478466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main figur walking animation_6
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 207
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28da652c417c3e49b5d0c9c8d4ee620
+      internalID: -7330779108062703963
       vertices: []
       indices: 
       edges: []
