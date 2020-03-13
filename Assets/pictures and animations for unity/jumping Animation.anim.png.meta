@@ -1,4 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/pictures and animations for unity/main figur idle animation.png.meta
+guid: 453639b0f5ac91147ba8d7ac6414a85f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2118397308199282943
+    second: main figur idle animation_0
+  - first:
+      213: -2611744107936279073
+    second: main figur idle animation_1
+=======
 guid: 2a81c69e9fa235e4f91f67bdd128b7e8
 TextureImporter:
   internalIDToNameTable:
@@ -17,6 +28,7 @@ TextureImporter:
   - first:
       213: 2967308434228499153
     second: jumping Animation.anim_4
+>>>>>>> cbc6044ff4cc22f8d29e2d43a8864032b5610196:Assets/pictures and animations for unity/jumping Animation.anim.png.meta
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -61,7 +73,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 102, y: 201, z: 486, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -97,10 +109,79 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<< HEAD:Assets/pictures and animations for unity/main figur idle animation.png.meta
+      name: main figur idle animation_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 233
+        width: 317
+        height: 860
+=======
       name: jumping Animation.anim_0
       rect:
         serializedVersion: 2
@@ -171,6 +252,7 @@ TextureImporter:
         y: 0
         width: 351
         height: 2000
+>>>>>>> cbc6044ff4cc22f8d29e2d43a8864032b5610196:Assets/pictures and animations for unity/jumping Animation.anim.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,13 +260,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:Assets/pictures and animations for unity/main figur idle animation.png.meta
+      spriteID: 67e5dc52bb52c3c4ab1870db498f9227
+      internalID: -2118397308199282943
+=======
       spriteID: 5a18e85c6cf207c44a964fb5b514da4c
       internalID: -8306928479614689786
+>>>>>>> cbc6044ff4cc22f8d29e2d43a8864032b5610196:Assets/pictures and animations for unity/jumping Animation.anim.png.meta
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD:Assets/pictures and animations for unity/main figur idle animation.png.meta
+      name: main figur idle animation_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 233
+        width: 317
+        height: 860
+=======
       name: jumping Animation.anim_4
       rect:
         serializedVersion: 2
@@ -192,6 +288,7 @@ TextureImporter:
         y: 0
         width: 482
         height: 963
+>>>>>>> cbc6044ff4cc22f8d29e2d43a8864032b5610196:Assets/pictures and animations for unity/jumping Animation.anim.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,8 +296,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD:Assets/pictures and animations for unity/main figur idle animation.png.meta
+      spriteID: 16339ea641b485444b7beee0723450fb
+      internalID: -2611744107936279073
+=======
       spriteID: 92b2a1caaaf519d48ae408d6aaff0f13
       internalID: 2967308434228499153
+>>>>>>> cbc6044ff4cc22f8d29e2d43a8864032b5610196:Assets/pictures and animations for unity/jumping Animation.anim.png.meta
       vertices: []
       indices: 
       edges: []
