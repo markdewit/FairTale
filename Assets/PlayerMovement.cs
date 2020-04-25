@@ -71,33 +71,41 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
-    void ChangeDirection(int direction)
+    void ChangeDirection(float direction)
     {
-        this.transform.localScale = new Vector3(direction, this.transform.localScale.y);
+        if (direction == 1)
+        {
+            this.transform.localScale = new Vector3(this.transform.localScale.x, this.transform.localScale.y);
+        }
+        else
+        {
+            this.transform.localScale = new Vector3(-this.transform.localScale.x, this.transform.localScale.y);
+        }
+        
     }
 
     void CheckIfGrounded()
     {
         isGrounded = Physics2D.Raycast(GroundCheckPosition.position, Vector2.down, 0.1f, GroundLayer);
 
-        if (isGrounded && jump)
-        {
-            jump = false;
+        //if (isGrounded && jump)
+        //{
+        //    jump = false;
 
-            anim.SetBool("Jump", false);
-        }
+        //    anim.SetBool("Jump", false);
+        //}
     }
 
     void PlayerJump()
     {
-        if (isGrounded)
-        {
-            if (Input.GetKey(KeyCode.Space))
-            {
-                jump = true;
-                myBody.velocity = new Vector2(myBody.velocity.x, jumpPower);
-                anim.SetBool("Jump", true);
-            }
-        }
+        //if (isGrounded)
+        //{
+        //    if (Input.GetKey(KeyCode.Space))
+        //    {
+        //        jump = true;
+        //        myBody.velocity = new Vector2(myBody.velocity.x, jumpPower);
+        //        anim.SetBool("Jump", true);
+        //    }
+        //}
     }
 }
